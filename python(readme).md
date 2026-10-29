@@ -54,7 +54,7 @@ contoh ```print ('hello'+ 5) # akan muncul error```
 > tanda `#` adalah tanda yg sering dibuat sebagai komentar atau catatn pada penggunaan syntax.
 
 ## Tipe data dalam bahasa Pemograman Python:
-|Tipe Data|Contoh|Penjelasan|
+|**Tipe Data**|**Contoh**|**Penjelasan**|
 |---|---|---|
 |Boolean| `True` atau `False`|Menyatakan benar `True` yang bernilai 1, atau false dan bernilai 0|
 |String|`"Ayo belajar Python"`| Menyatakan karakter/kalimat bisa berupa huruf anka, dll `(diapit dengan tanda " atau ')`|
