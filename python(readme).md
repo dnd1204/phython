@@ -58,6 +58,11 @@ contoh ```print ('hello'+ 5) # akan muncul error```
 |---|---|---|
 |Boolean| `True` atau `False`|Menyatakan benar `True` yang bernilai 1, atau false dan bernilai 0|
 |String|`"Ayo belajar Python"`| Menyatakan karakter/kalimat bisa berupa huruf anka, dll `(diapit dengan tanda " atau ')`|
-||||
-||||
-||||
+|Integer|`25` atau `1209`|Menyatakan bilangan bulat |
+|Float|`3.14` atau `0.99`|menyatakan bilangan yang mempunyai koma|
+|Hexadecimal|`0x9a` atau `0x1d3`|menyatakan bilangan dalam format heksa `(bilangan berbasis 16)`|
+|Complex|`1+5J`|Menyatakan pasangan angka real dan imajiner|
+|List|`['xyz', 768, 2.23]`|Data untaian yang menyimpan berbagai tipe data dan isinya bisa diubah-ubah|
+|Tuple|`('xyz',789,2.23)`|Data untaian yang menyimpan berbagai tipe data tapi isinya tidak bisa diubah|
+|Set|`{'apel','jeruk'}`|Kumpulan data unik yang tidak berutan dan tidak bisa memiliki duplikat|
+|Dictionary|`{'nama': 'adi', 'adi':2}`|Data untaian yang menyimpan berbagai tipe data berupa pasangan penunjuk dan nilai|
